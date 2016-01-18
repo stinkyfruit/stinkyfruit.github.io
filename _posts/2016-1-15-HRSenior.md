@@ -8,7 +8,7 @@ So tonight we had a junior-senior pairing session, where a senior gets on a call
 
 In the first 6 weeks, you're learning new technologies every 2 days. Constant cramming. You look back and think, "Well that went by really fast", because it's hard to believe you're in week 7. But then you're reminded of an earlier "sprint", that the current JRs are on, and it feels like years ago when you were struggling with it. 
 
-In week 7, the SRs have been through alot. Constant learning and testing. Rinse and repeat. No downtown, kiss your family and friends goobye, for the time being. So when you reach the point at week 7 when you get to use everything you've learned, it's a very rewarding experience. 
+In week 7, the SRs have been through alot. Constant learning and testing. Rinse and repeat. No downtime, kiss your family and friends goobye, for the time being. So when you reach the point at week 7 when you get to use everything you've learned, it's a very rewarding experience. 
 
 I will have to say this is my favorite part of the program. You're still learning, but you're learning by doing, and creating. You're no longer being tested for what knowledge you can retain, now you're treated like a software engineer, and your main job is to... well... engineer. 
 
