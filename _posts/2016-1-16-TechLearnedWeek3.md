@@ -3,6 +3,7 @@ layout: post
 title: Technologies Learned in Week 3 of Hack Reactor
 ---
 
+
 ##Week 3
 
 ###REST
