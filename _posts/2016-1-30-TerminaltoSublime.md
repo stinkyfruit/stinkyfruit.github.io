@@ -7,7 +7,7 @@ title: Opening Sublime from Terminal
 ##Opening a file from the Terminal to Sublime 3
 
 
-Here I will show you a handy trick where you can open a file in sublime from the terminal. 
+Here I will show you a handy trick where you can open a file in Sublime from the terminal. You need to run a few commands to setup the functionality in command. 
 
 ###Step One
 
