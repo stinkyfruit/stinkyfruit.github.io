@@ -29,7 +29,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 
 It looks like the following:
 
-![an image alt text]({{ site.baseurl }}/images/CommandLine1.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/CommandLine2.png "an image title")
 
 ###Step Three
 
