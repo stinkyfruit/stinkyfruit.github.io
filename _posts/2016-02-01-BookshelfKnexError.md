@@ -33,11 +33,11 @@ Last week was a very trying week for my love for all-things databases. I'm using
 
 This should have worked. But I kept getting the following 2 errors:
 
-Unhandled rejection Error: ER_DUP_ENTRY: Duplicate entry '1' for key 'PRIMARY'
+>Unhandled rejection Error: ER_DUP_ENTRY: Duplicate entry '1' for key 'PRIMARY'
 
 I wasn't duplicating any keys, or changing any for that matter. Then I would change some code and get the following error:
 
->>Error: A model cannot be updated without a "where" clause or an idAttribute
+>Error: A model cannot be updated without a "where" clause or an idAttribute
 
 I had a where clause! AND an ID attribute. What could it be? We tried so may things, over and over and over again:
 
